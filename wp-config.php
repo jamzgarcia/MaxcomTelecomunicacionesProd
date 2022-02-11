@@ -26,7 +26,7 @@ define( 'DB_NAME', 'maxcomtele2022' );
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'Admin2022**...' );
+define( 'DB_PASSWORD', '' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
